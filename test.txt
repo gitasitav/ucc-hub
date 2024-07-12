@@ -1,3 +1,4 @@
 GIT is a popular SCM tool .
 Git midified change
 changes are being made and line no 3 should be replicated .
+Time to check reset options 
